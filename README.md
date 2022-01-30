@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ## Stats 📈
 <p align="center"> 
  
-![Satyam awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
+![Satyam awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=awasthisatyam&show_icons=true&theme=radical)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=awasthisatyam&theme=radical)](https://git.io/streak-stats)
 
 - 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **DevOps**| **OPENSOURCE enthusiasm | NETWOKING | LINUX | Oops |
 <br/> <br/>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
  
 ## Languages 📝
-![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
+![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=awasthisatyam&show_icons=true&locale=en&layout=compact)
 
 
 
@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 
 
 
-**Page Views**(Counting Since 2022): ![Visitor Count](https://profile-counter.glitch.me/{sundramawasthi}/count.svg)
+**Page Views**(Counting Since 2022): ![Visitor Count](https://profile-counter.glitch.me/{awasthisatyam}/count.svg)
