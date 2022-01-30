@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 
 
 
-# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sundram Awasthi.
+# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Satyam Awasthi.
 
 <h3 align="left"><img src ="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /></h3>
 
 
-🎓I am a **Sundram Awasthi**, Pursuing Bachelors in **Computer Science and Engineering**. <br>
+🎓I am a **Satyam Awasthi**, Pursuing Bachelor of Technology in **Computer Science and Engineering**. <br>
 
-💡I am currently Pursuing  **fluter developer Intern** at GREETSAPP. <br>
-
-💡Focusing on **DevOPs** and  A *beginner* contributor at **Open Source**. <br>
 
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <hr>
@@ -36,14 +33,14 @@ Here are some ideas to get you started:
  <br>
  <br>
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=sundaramawasthi&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=awasthisatyam&theme=chartreuse-dark"
      />
 
 
 ## Stats 📈
 <p align="center"> 
  
-![sundaram awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
+![Satyam awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
 
